@@ -30,7 +30,7 @@ authentication, DNS services and Group Policy management.
 	- DNS Server.
 	- Global Catalog.
 - Domain: empresa.local.
-- IP Address: 192.122.10
+- IP Address: 192.168.122.10
 - DNS: Self (127.0.0.1 / 192.168.122.10)
 
 ---
