@@ -32,4 +32,16 @@ including DNS integration, OU structure and Group Policy implementation.
 - Validation with gpresult.
 
 ## Objective
+
 Simulate basic corporative environment for learning of Systems Administration.
+
+## Skills Demonstrated
+
+- Active Directory deployment
+- DNS configuration
+- Domain controller promotion
+- Group Policy implementation
+- Windows Server administration
+- Virtualization with KVM
+- Technical documentation in English
+- Version control with Git
