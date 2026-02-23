@@ -1,8 +1,18 @@
 # Active Directory Homelab - Windows Server 2025
 
+Enterprise-style Active Directory homelab built on Ubuntu + KVM,
+including DNS integration, OU structure and Group Policy implementation.
+
 ![Windows Server](https://img.shields.io/badge/Windows_Server-2025-blue)
 ![AD DS](https://img.shields.io/badge/Active_Directory-Configured-green)
 ![Virtualization](https://img.shields.io/badge/KVM-Ubuntu-orange)
+
+## Project Structure
+
+- docs/
+	- 01-architecture.md
+	- 02-ad-installation.md
+	- 03-organizational-structure.md
 
 ## Architecture
 
