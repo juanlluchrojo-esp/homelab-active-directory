@@ -1,5 +1,9 @@
 # Active Directory Homelab - Windows Server 2025
 
+![Windows Server](https://img.shields.io/badge/Windows_Server-2025-blue)
+![AD DS](https://img.shields.io/badge/Active_Directory-Configured-green)
+![Virtualization](https://img.shields.io/badge/KVM-Ubuntu-orange)
+
 ## Architecture
 
 - Hypervisor: Ubuntu + KVM.
